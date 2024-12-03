@@ -1,0 +1,226 @@
+sheet_name,method,contamination,lower_threshold,upper_threshold,std_dev,metric,t_stat,p_value
+EmotionSwitch,threshold,0.1,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.1,0.2,1.5,2,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.1,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.1,0.2,1.5,2.5,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.1,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.1,0.2,1.5,3.0,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.1,0.2,1.8,2,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.1,0.2,1.8,2.5,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.1,0.2,1.8,3.0,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.1,0.2,2.0,2,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.1,0.2,2.0,2.5,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.1,0.2,2.0,3.0,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.1,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.1,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.1,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.1,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.1,0.3,1.5,2,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.1,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.1,0.3,1.5,2.5,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.1,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.1,0.3,1.5,3.0,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.1,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.1,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.1,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.1,0.3,2.0,2,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.1,0.3,2.0,2.5,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.1,0.3,2.0,3.0,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.1,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.1,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.1,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.1,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.1,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.1,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.1,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.1,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.1,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.1,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.1,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.1,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.1,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.1,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.1,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.1,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.1,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.1,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.2,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.2,0.2,1.5,2,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.2,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.2,0.2,1.5,2.5,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.2,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.2,0.2,1.5,3.0,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.2,0.2,1.8,2,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.2,0.2,1.8,2.5,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.2,0.2,1.8,3.0,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.2,0.2,2.0,2,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.2,0.2,2.0,2.5,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.2,0.2,2.0,3.0,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.2,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.2,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.2,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.2,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.2,0.3,1.5,2,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.2,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.2,0.3,1.5,2.5,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.2,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.2,0.3,1.5,3.0,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.2,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.2,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.2,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.2,0.3,2.0,2,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.2,0.3,2.0,2.5,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.2,0.3,2.0,3.0,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.2,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.2,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.2,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.2,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.2,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.2,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.2,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.2,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.2,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.2,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.2,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.2,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.2,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.2,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.2,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.2,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.2,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.2,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.3,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.3,0.2,1.5,2,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.3,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.3,0.2,1.5,2.5,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.3,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.3,0.2,1.5,3.0,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.3,0.2,1.8,2,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.3,0.2,1.8,2.5,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.3,0.2,1.8,3.0,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.3,0.2,2.0,2,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.3,0.2,2.0,2.5,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.3,0.2,2.0,3.0,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.3,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.3,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.3,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.3,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.3,0.3,1.5,2,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.3,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.3,0.3,1.5,2.5,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.3,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.3,0.3,1.5,3.0,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.3,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.3,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.3,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.3,0.3,2.0,2,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.3,0.3,2.0,2.5,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.3,0.3,2.0,3.0,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.3,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.3,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.3,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.3,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.3,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.3,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.3,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.3,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.3,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.3,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.3,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.3,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.3,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.3,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.3,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.3,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.3,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.3,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.4,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.4,0.2,1.5,2,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.4,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.4,0.2,1.5,2.5,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.4,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.4,0.2,1.5,3.0,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.4,0.2,1.8,2,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.4,0.2,1.8,2.5,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.4,0.2,1.8,3.0,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.4,0.2,2.0,2,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.4,0.2,2.0,2.5,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.4,0.2,2.0,3.0,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.4,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.4,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.4,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.4,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.4,0.3,1.5,2,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.4,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.4,0.3,1.5,2.5,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.4,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.4,0.3,1.5,3.0,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.4,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.4,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.4,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.4,0.3,2.0,2,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.4,0.3,2.0,2.5,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.4,0.3,2.0,3.0,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.4,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.4,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.4,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.4,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.4,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.4,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.4,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.4,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.4,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.4,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.4,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.4,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.4,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.4,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.4,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.4,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.4,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.4,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.5,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.5,0.2,1.5,2,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.5,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.5,0.2,1.5,2.5,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.5,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),1.9441593036259064,0.054036178314303865
+EmotionSwitch,threshold,0.5,0.2,1.5,3.0,Accuracy_diff (acc),2.3570987637786134,0.021488996634001552
+EmotionSwitch,threshold,0.5,0.2,1.8,2,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.5,0.2,1.8,2.5,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.5,0.2,1.8,3.0,Accuracy_diff (acc),1.6882941848356263,0.09622231393258113
+EmotionSwitch,threshold,0.5,0.2,2.0,2,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.5,0.2,2.0,2.5,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.5,0.2,2.0,3.0,Accuracy_diff (acc),1.815265886802539,0.07416870437109942
+EmotionSwitch,threshold,0.5,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.5,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.5,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.7400290941530026,0.08422042932581669
+EmotionSwitch,threshold,0.5,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.5,0.3,1.5,2,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.5,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.5,0.3,1.5,2.5,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.5,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.7412245085983895,0.006983335811742112
+EmotionSwitch,threshold,0.5,0.3,1.5,3.0,Accuracy_diff (acc),2.1136592958437004,0.038447680298578854
+EmotionSwitch,threshold,0.5,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.5,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.5,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),2.1417579800538724,0.03407778336556088
+EmotionSwitch,threshold,0.5,0.3,2.0,2,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.5,0.3,2.0,2.5,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.5,0.3,2.0,3.0,Accuracy_diff (acc),1.703635758801919,0.09330069607177276
+EmotionSwitch,threshold,0.5,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.5,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.5,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),2.0621395896456045,0.041186366227135916
+EmotionSwitch,threshold,0.5,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.5,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.5,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),2.4485335465173237,0.015676827659301364
+EmotionSwitch,threshold,0.5,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.5,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.5,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.3480189045572164,0.020382472357019607
+EmotionSwitch,threshold,0.5,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.5,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.5,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.96054242460612,0.05207079559173668
+EmotionSwitch,threshold,0.5,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.5,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.5,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),2.25246506231893,0.025969451641014184
+EmotionSwitch,threshold,0.5,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.5,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364
+EmotionSwitch,threshold,0.5,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),1.9060950498632563,0.05884537652594364

@@ -1,0 +1,711 @@
+sheet_name,method,contamination,lower_threshold,upper_threshold,std_dev,metric,t_stat,p_value
+EmotionStoop,lof,0.1,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.1,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.2655609315857816,0.025106717500560764
+EmotionStoop,lof,0.2,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,lof,0.2,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.8819104109160458,0.06205001837628321
+EmotionStoop,abod,0.1,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.1,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.369148320388132,0.01927823938281902
+EmotionStoop,abod,0.2,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.2,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-2.0240912907703863,0.04497872498328697
+EmotionStoop,abod,0.3,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.3,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.888153960277778,0.061200082627146705
+EmotionStoop,abod,0.4,0.2,1.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,1.8,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.0,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.2,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.8,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.0,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.2,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.8,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.0,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.2,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.8,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.0,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.2,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.5,2,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,abod,0.4,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.69305529699843,0.09280372488624233
+EmotionStoop,threshold,0.1,0.2,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.1,0.2,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.1,0.2,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.1,0.2,1.8,2,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.1,0.2,1.8,2.5,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.1,0.2,1.8,3.0,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.1,0.2,2.2,2,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.1,0.2,2.2,2.5,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.1,0.2,2.2,3.0,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.1,0.2,2.5,2,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.1,0.2,2.5,2.5,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.1,0.2,2.5,3.0,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.1,0.3,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.1,0.3,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.1,0.3,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.1,0.3,1.8,2,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.1,0.3,1.8,2.5,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.1,0.3,1.8,3.0,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.1,0.4,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.1,0.4,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.1,0.4,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.1,0.4,1.8,2,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.1,0.4,1.8,2.5,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.1,0.4,1.8,3.0,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.1,0.5,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.1,0.5,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.1,0.5,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.1,0.5,1.8,2,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.1,0.5,1.8,2.5,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.1,0.5,1.8,3.0,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.2,0.2,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.2,0.2,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.2,0.2,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.2,0.2,1.8,2,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.2,0.2,1.8,2.5,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.2,0.2,1.8,3.0,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.2,0.2,2.2,2,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.2,0.2,2.2,2.5,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.2,0.2,2.2,3.0,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.2,0.2,2.5,2,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.2,0.2,2.5,2.5,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.2,0.2,2.5,3.0,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.2,0.3,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.2,0.3,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.2,0.3,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.2,0.3,1.8,2,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.2,0.3,1.8,2.5,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.2,0.3,1.8,3.0,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.2,0.4,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.2,0.4,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.2,0.4,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.2,0.4,1.8,2,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.2,0.4,1.8,2.5,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.2,0.4,1.8,3.0,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.2,0.5,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.2,0.5,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.2,0.5,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.2,0.5,1.8,2,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.2,0.5,1.8,2.5,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.2,0.5,1.8,3.0,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.3,0.2,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.3,0.2,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.3,0.2,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.3,0.2,1.8,2,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.3,0.2,1.8,2.5,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.3,0.2,1.8,3.0,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.3,0.2,2.2,2,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.3,0.2,2.2,2.5,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.3,0.2,2.2,3.0,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.3,0.2,2.5,2,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.3,0.2,2.5,2.5,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.3,0.2,2.5,3.0,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.3,0.3,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.3,0.3,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.3,0.3,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.3,0.3,1.8,2,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.3,0.3,1.8,2.5,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.3,0.3,1.8,3.0,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.3,0.4,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.3,0.4,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.3,0.4,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.3,0.4,1.8,2,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.3,0.4,1.8,2.5,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.3,0.4,1.8,3.0,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.3,0.5,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.3,0.5,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.3,0.5,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.3,0.5,1.8,2,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.3,0.5,1.8,2.5,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.3,0.5,1.8,3.0,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.4,0.2,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.4,0.2,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.4,0.2,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.4,0.2,1.8,2,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.4,0.2,1.8,2.5,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.4,0.2,1.8,3.0,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.4,0.2,2.2,2,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.4,0.2,2.2,2.5,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.4,0.2,2.2,3.0,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.4,0.2,2.5,2,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.4,0.2,2.5,2.5,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.4,0.2,2.5,3.0,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.4,0.3,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.4,0.3,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.4,0.3,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.4,0.3,1.8,2,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.4,0.3,1.8,2.5,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.4,0.3,1.8,3.0,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.4,0.4,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.4,0.4,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.4,0.4,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.4,0.4,1.8,2,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.4,0.4,1.8,2.5,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.4,0.4,1.8,3.0,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.4,0.5,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.4,0.5,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.4,0.5,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.4,0.5,1.8,2,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.4,0.5,1.8,2.5,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.4,0.5,1.8,3.0,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.5,0.2,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.5,0.2,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.5,0.2,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-1.9083499501458858,0.06121508336109013
+EmotionStoop,threshold,0.5,0.2,1.8,2,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.5,0.2,1.8,2.5,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.5,0.2,1.8,3.0,Accuracy_diff (acc),2.217262858244128,0.030220988361628693
+EmotionStoop,threshold,0.5,0.2,2.2,2,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.5,0.2,2.2,2.5,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.5,0.2,2.2,3.0,Average Reaction Time_diff (rt),1.7862195614702057,0.07872763288486495
+EmotionStoop,threshold,0.5,0.2,2.5,2,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.5,0.2,2.5,2.5,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.5,0.2,2.5,3.0,Average Reaction Time_diff (rt),1.7407194420852095,0.0864647168015757
+EmotionStoop,threshold,0.5,0.3,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.5,0.3,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.5,0.3,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.3829014959087207,0.020416322634571833
+EmotionStoop,threshold,0.5,0.3,1.8,2,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.5,0.3,1.8,2.5,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.5,0.3,1.8,3.0,Accuracy_diff (acc),2.2176274138113983,0.03019483344273708
+EmotionStoop,threshold,0.5,0.4,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.5,0.4,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.5,0.4,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.5085346084701174,0.014891672283427543
+EmotionStoop,threshold,0.5,0.4,1.8,2,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.5,0.4,1.8,2.5,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.5,0.4,1.8,3.0,Accuracy_diff (acc),2.3520036267939908,0.021811362626786013
+EmotionStoop,threshold,0.5,0.5,1.5,2,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.5,0.5,1.5,2.5,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.5,0.5,1.5,3.0,Reaction Time Standard Deviation_diff (rtsd),-2.1458000974617475,0.036013954943310576
+EmotionStoop,threshold,0.5,0.5,1.8,2,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.5,0.5,1.8,2.5,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,threshold,0.5,0.5,1.8,3.0,Accuracy_diff (acc),2.053936152410212,0.044137111443471065
+EmotionStoop,std,0.1,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.1,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.1,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.2,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.2,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.3,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.3,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.4,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.4,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.2,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.2,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.2,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.2,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.2,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.2,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.2,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.2,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.2,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.2,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.3,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.3,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.3,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.3,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.3,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.3,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.3,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.3,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.3,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.3,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.4,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.4,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.4,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.4,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.4,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.4,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.4,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.4,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.4,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.4,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.5,1.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.5,1.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.5,1.8,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.5,1.8,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.5,2.0,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.5,2.0,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.5,2.2,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.5,2.2,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113
+EmotionStoop,std,0.5,0.5,2.5,2.5,Reaction Time Standard Deviation (rtsd),-1.6728851427867923,0.09671835113497265
+EmotionStoop,std,0.5,0.5,2.5,3.0,Reaction Time Standard Deviation (rtsd),-1.815312741398505,0.07174591193436113

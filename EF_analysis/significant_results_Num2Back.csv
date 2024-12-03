@@ -1,0 +1,16 @@
+sheet_name,method,contamination,lower_threshold,upper_threshold,std_dev,metric,t_stat,p_value
+Number2Back,threshold,0.1,0.5,1.5,2,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.1,0.5,1.5,2.5,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.1,0.5,1.5,3.0,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.2,0.5,1.5,2,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.2,0.5,1.5,2.5,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.2,0.5,1.5,3.0,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.3,0.5,1.5,2,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.3,0.5,1.5,2.5,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.3,0.5,1.5,3.0,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.4,0.5,1.5,2,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.4,0.5,1.5,2.5,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.4,0.5,1.5,3.0,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.5,0.5,1.5,2,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.5,0.5,1.5,2.5,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
+Number2Back,threshold,0.5,0.5,1.5,3.0,Average Reaction Time (rt),1.840200926498844,0.07030473283997427
